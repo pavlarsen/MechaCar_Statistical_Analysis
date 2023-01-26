@@ -30,6 +30,8 @@
 
 ![Lot1](https://user-images.githubusercontent.com/113866707/214748913-056dded2-d483-4a5f-b7f9-706d0d3fb3f1.png)
 
+![Lot2](https://user-images.githubusercontent.com/113866707/214749133-54940da2-9085-4990-bd89-4396dd13b3c7.png)
+
 
 * Summarize your interpretation and findings for the t-test results.
 
