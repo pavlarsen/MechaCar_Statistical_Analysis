@@ -26,7 +26,8 @@
 
 ## T-Tests on Suspension Coils
 
-[T Tests Images]
+![T Test all](https://user-images.githubusercontent.com/113866707/214746207-3d32ff51-8397-4de8-8cda-c4a8d3b26e72.png)
+
 
 * Summarize your interpretation and findings for the t-test results.
 
