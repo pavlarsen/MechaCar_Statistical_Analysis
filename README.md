@@ -64,13 +64,13 @@ For this extra test comparing MechaCar vs competitors, I would run a statistical
 
 - What is the null hypothesis or alternative hypothesis?
 
-Null hypothesis: There is no statistical difference betweeen maintenance costs.
-Alternative hypothesis: There is a statistical difference between maintenance costs.
+Null hypothesis: Maintenance costs of MechaCar > Competitor.
+Alternative hypothesis: Maintenance cost of MechaCar < Competitor.
 
 
 - What statistical test would you use to test the hypothesis? And why?
 
-A linear regression test would enable us to test our hypothesis and determine if statistical differences exist or not.
+I would use t-test to evaluate this criteria since this test helps identify a null hypothesis and deterimine validity by evaluating p-value of 0.05. Higher p-value than 0.05 would mean we reject null hypothesis, lower p-value than 0.05 we accept alternative hypothesis.
 
 - What data is needed to run the statistical test?
 
