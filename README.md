@@ -33,6 +33,8 @@ This linear model has a strong correlation which helps predict mpg values since 
 
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
+If we evaluate the whole 3 lots together, we can realize that the variance is bellow the 100 pounds per square inch threshold. However, if we evaluate this value for individual lots, only lots 1 & 2 meets this criteria, whereas lot 3 is above the threshold.
+
 ---
 
 ## T-Tests on Suspension Coils
@@ -47,6 +49,8 @@ This linear model has a strong correlation which helps predict mpg values since 
 
 * Summarize your interpretation and findings for the t-test results.
 
+If we evaluate t-test for the 3 lots together, we can accept null hyphothesis since the p-value is greater than 0.05. When tested individually, we can only reject the null hiypothesis of lot 3 sinces it has a p-value lower than 0.05. For lot 3, the variation could cause problems in the manufacturing line.
+
 ---
 
 ## Study Design: MechaCar vs Competition
@@ -56,6 +60,8 @@ This linear model has a strong correlation which helps predict mpg values since 
 * In your description, address the following questions:
 
 - What metric or metrics are you going to test?
+
+
 - What is the null hypothesis or alternative hypothesis?
 - What statistical test would you use to test the hypothesis? And why?
 - What data is needed to run the statistical test?
