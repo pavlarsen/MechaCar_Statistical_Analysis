@@ -55,11 +55,12 @@ If we evaluate t-test for the 3 lots together, we can accept null hyphothesis si
 
 ## Study Design: MechaCar vs Competition
 
-* Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+*Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
-* In your description, address the following questions:
+*In your description, address the following questions:
 
 - What metric or metrics are you going to test?
+
 For this extra test comparing MechaCar vs competitors, I would run a statistical comparison focused on maintenance cost. We will need maintenance cost from MechaCar and competitors to run t-test.
 
 - What is the null hypothesis or alternative hypothesis?
