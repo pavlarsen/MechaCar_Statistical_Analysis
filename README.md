@@ -60,8 +60,18 @@ If we evaluate t-test for the 3 lots together, we can accept null hyphothesis si
 * In your description, address the following questions:
 
 - What metric or metrics are you going to test?
-
+For this extra test comparing MechaCar vs competitors, I would run a statistical comparison focused on maintenance cost. We will need maintenance cost from MechaCar and competitors to run t-test.
 
 - What is the null hypothesis or alternative hypothesis?
+
+Null hypothesis: There is no statistical difference betweeen maintenance costs.
+Alternative hypothesis: There is a statistical difference between maintenance costs.
+
+
 - What statistical test would you use to test the hypothesis? And why?
+
+A linear regression test would enable us to test our hypothesis and determine if statistical differences exist or not.
+
 - What data is needed to run the statistical test?
+
+Maintenance costs from MechaCar and competitors would be needed in order to evaluate this criteria for customers.
