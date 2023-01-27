@@ -1,5 +1,7 @@
 # MechaCar_Statistical_Analysis
 
+The purpose of this project is to identify via statistical analyisis helpful insights for the manufacturing team.
+
 ## Linear Regression to Predict MPG
 
 ![Linear Regression](https://user-images.githubusercontent.com/113866707/214742949-26702802-39ca-41ee-b3c5-8ab49ff2ca1b.png)
@@ -8,9 +10,18 @@
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
+Vehicle Length and Ground Clearance variables were both statistical significant.
+
+
 * Is the slope of the linear model considered to be zero? Why or why not?
 
+The output of p-value of the model is belLow the threshold of 0.05. Thus, we can conclude that there is evidence to reject the null hypothesis (slope is not zero)
+
+
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+This linear model has a strong correlation which helps predict mpg values since the Multiple R-Squared value of the model is 0.7149. This model helps predict at 71.49%.
+
 
 ---
 
